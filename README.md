@@ -1,5 +1,5 @@
 # How to run
-1. Download this repository and navigate to it on your local computer.
+1. Clone this repository and navigate to it on your local computer terminal using `cd`.
 2. Run `npm install`
 3. Run `npm run dev`
 
