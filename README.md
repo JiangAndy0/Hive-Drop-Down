@@ -3,6 +3,12 @@
 2. Run `npm install`
 3. Run `npm run dev`
 
+# Contents
+This React application contains two dropdowns using a custom DropDown component, a "City to Visit"
+single-select dropdown and a "Places to Visit" multi-select dropdown. Selecting a city in the first
+dropdown causes the options that are available to select in the "Places to Visit" dropdown to change,
+and also updates the image at the bottom of the page to an image of the selected city. 
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
